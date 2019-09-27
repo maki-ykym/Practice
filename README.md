@@ -1,2 +1,2 @@
 # Practice
-Giのt練習
+Gitの練習
